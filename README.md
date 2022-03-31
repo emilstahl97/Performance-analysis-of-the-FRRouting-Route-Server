@@ -8,5 +8,5 @@ The obtained results show that there exists a divergence between the number of p
 
 #### Keywords: FRRouting, Border Gateway Protocol, Route Server, Internet eXchange Points
 
-[PDF](http://kth.diva-portal.org/smash/get/diva2:1606472/FULLTEXT01.pdf)
-[DiVA](http://kth.diva-portal.org/smash/record.jsf?dswid=-232&pid=diva2%3A1606472&c=1&searchType=SIMPLE&language=en&query=Emil+Ståhl+performance&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
+* [PDF](http://kth.diva-portal.org/smash/get/diva2:1606472/FULLTEXT01.pdf)
+* [DiVA](http://kth.diva-portal.org/smash/record.jsf?dswid=-232&pid=diva2%3A1606472&c=1&searchType=SIMPLE&language=en&query=Emil+Ståhl+performance&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
